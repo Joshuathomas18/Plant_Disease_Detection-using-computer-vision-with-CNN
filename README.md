@@ -161,5 +161,5 @@ Predicted Class: Blight
 Confidence: 90.3%
 
 # VISUALIZATIONS
-![Alt text](https://example.com/path/to/image.png)
+
 
